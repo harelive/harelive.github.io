@@ -1,0 +1,16 @@
+<svg width="75" height="20" xmlns="http://www.w3.org/2000/svg" aria-label="安知鱼-上班摸鱼中">
+ <g>
+  <title>Layer 1</title>
+  <g stroke="#d5d5d5" id="svg_1">
+   <rect x="4.5" y="0.5" width="63" height="19" rx="2" fill="#fafafa" id="svg_3"/>
+   <path stroke="#fafafa" d="m4,7.5l0.5,0l0,5l-0.5,0l0,-5z" id="svg_4"/>
+   <path d="m4.5,6.5l-3,3l0,1l3,3" stroke="d5d5d5" fill="#fafafa" id="svg_5"/>
+  </g>
+  <g aria-hidden="true" fill="#333" text-anchor="middle" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" text-rendering="geometricPrecision" font-weight="700" font-size="110" id="svg_7">
+   <text aria-hidden="true" x="-224.99999" y="150" fill="#fff" transform="translate(-1 0) scale(0.1 0.1)" textLength="330" id="svg_9">安知鱼</text>
+   <text aria-hidden="true" x="365.00001" y="150" fill="#fff" transform="translate(-1 0) scale(0.1 0.1)" textLength="550" id="svg_11">上班摸鱼中</text>
+   <text x="365.00001" y="140" transform="translate(-1 0) scale(0.1 0.1)" textLength="550" id="svg_12">上班摸鱼中</text>
+  </g>
+ </g>
+
+</svg>
