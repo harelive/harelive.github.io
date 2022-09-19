@@ -54,6 +54,17 @@
     
     <entry>
       <title></title>
+      <link href="/js/randombg.js"/>
+      <url>/js/randombg.js</url>
+      
+        <content type="html"><![CDATA[//随机背景图片数组,图片可以换成图床链接，注意最后一条后面不要有逗号var backimg = [    "url(/img/背景图片/原神3.0壁纸.jpg)",    "url(/img/背景图片/元旦贺图2560x1440.jpg)",    "url(/img/背景图片/原神壁纸5.jpg)",    "url(/img/背景图片/放課後ティータイム.jpg)",    "url(/img/背景图片/放課後ティータイム2.jpg)",    "url(/img/背景图片/放課後ティータイム3.jpg)"];//获取背景图片总数，生成随机数var bgindex = Math.floor(Math.random() * backimg.length);//重设背景图片document.getElementById("web_bg").style.backgroundImage = backimg[bgindex];]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/js/title.js"/>
       <url>/js/title.js</url>
       
