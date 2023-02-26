@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>测试1</title>
+      <link href="/posts/qexo.html"/>
+      <url>/posts/qexo.html</url>
+      
+        <content type="html"><![CDATA[<p>2023.2.26为hexo添加后台管理</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/posts/4a17b156.html"/>
       <url>/posts/4a17b156.html</url>
